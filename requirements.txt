@@ -1,0 +1,6 @@
+jupyter
+notebook
+spacy
+pandas
+numpy
+scikit-learn
